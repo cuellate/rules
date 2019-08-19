@@ -1,3 +1,3 @@
-These are the Rules of Cuéllate, Version 3.
+These are the Rules of Cuéllate, Version 4.
 
-These rules were validated on April 29, 2019.
+These rules were validated on August 19, 2019.
